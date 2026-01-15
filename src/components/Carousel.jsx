@@ -202,13 +202,7 @@ const Carousel = () => {
         />
       </div>
 
-      {/* Auto-play Toggle */}
-      <button
-        onClick={() => setIsAutoPlaying(!isAutoPlaying)}
-        className="absolute top-6 right-6 z-20 bg-black/30 backdrop-blur-sm border border-neutral-700 rounded-lg px-3 py-2 text-sm text-white hover:bg-black/50 transition-all duration-300"
-      >
-        {isAutoPlaying ? 'Pausar' : 'Reproducir'}
-      </button>
+      
     </section>
   )
 }

@@ -176,16 +176,6 @@ const ProductShowcase = () => {
                       </motion.div>
                     ))}
                   </div>
-
-                  {/* CTA Button */}
-                  <motion.button
-                    className="flex items-center gap-3 text-white hover:text-neutral-300 transition-colors duration-300 group"
-                    whileHover={{ x: 10 }}
-                    transition={{ duration: 0.3 }}
-                  >
-                    <span className="font-medium">Aprende Más</span>
-                    <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform duration-300" />
-                  </motion.button>
                 </div>
               </div>
 
