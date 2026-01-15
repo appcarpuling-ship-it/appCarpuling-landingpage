@@ -1,0 +1,93 @@
+PROMPT (React + Tailwind)
+
+Genera una landing page web full responsive usando React y Tailwind CSS, con un estilo premium, minimalista y profesional, inspirado en el diseño de Apple.
+
+Lineamientos de diseño:
+
+Diseño dark mode por defecto
+
+Fondo negro profundo y grises oscuros (bg-black, bg-neutral-900)
+
+Texto en blanco y grises suaves
+
+Sin degradados, sin emojis, sin colores estridentes
+
+Estética limpia, tecnológica y elegante
+
+Uso correcto del espaciado, jerarquía visual clara
+
+Tipografía moderna (Inter, SF Pro o similar)
+
+Estructura de la landing:
+
+Hero section
+
+Altura min-h-screen
+
+Imagen o video full width
+
+Título grande, fuerte y conciso
+
+Subtítulo descriptivo
+
+CTA minimalista
+
+Carrusel full width
+
+Ocupa el 100% del ancho
+
+Transiciones suaves
+
+Navegación minimalista
+
+Compatible con mobile
+
+Sección de características
+
+Grid responsive (grid-cols-1 md:grid-cols-3)
+
+Íconos simples o imágenes (sin emojis)
+
+Texto claro y breve
+
+Sección de producto / showcase
+
+Imágenes grandes
+
+Layout tipo Apple: imagen + texto alineado
+
+Testimonios o casos de uso
+
+Diseño sobrio
+
+Tarjetas con fondo oscuro y bordes suaves
+
+Footer minimalista
+
+Links esenciales
+
+Copyright discreto
+
+Animaciones:
+
+Animaciones suaves al hacer scroll (fade, slide, scale)
+
+Transiciones ease-in-out
+
+Hover effects sutiles en botones y cards
+
+Animaciones implementadas con Framer Motion o CSS
+
+Requisitos técnicos:
+
+Componentes React reutilizables
+
+Tailwind CSS para todo el styling
+
+Código limpio y bien estructurado
+
+Totalmente responsive (mobile-first)
+
+Performance optimizada
+
+El resultado debe transmitir alta calidad, innovación y confianza, similar a una web de producto tecnológico de primer nivel.
