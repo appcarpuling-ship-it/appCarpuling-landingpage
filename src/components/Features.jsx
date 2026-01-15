@@ -210,22 +210,6 @@ const Features = () => {
             </motion.div>
           ))}
         </motion.div>
-
-        {/* CTA Section */}
-        <motion.div
-          initial={{ opacity: 0, y: 50 }}
-          animate={isInView ? { opacity: 1, y: 0 } : {}}
-          transition={{ duration: 0.8, delay: 0.8 }}
-          className="text-center mt-20"
-        >
-          <motion.button
-            className="btn-primary text-lg px-10 py-4"
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-          >
-            Explorar Características
-          </motion.button>
-        </motion.div>
       </div>
     </section>
   )
